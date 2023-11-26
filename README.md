@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Srirankan</h1>
-<h3 align="center">I`m currently a Computer Science Student and aspiring Software Engineer</h3>
+<h3 align="center">I`m currently a 2nd year Computer Science Student at Carleton University.</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwin-srirankan-84139a1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwin-srirankan-84139a1a3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwin-srirankan-84139a1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin-srirankan-84139a1a3/" height="30" width="40" /></a>
 <a href="https://discord.gg/ash6843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ash6843" height="30" width="40" /></a>
 </p>
 
